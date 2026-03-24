@@ -1,0 +1,1412 @@
+[
+  {
+    "name": "Bitcoin",
+    "ticker": "BTC",
+    "pythFeedId": "0xe62df6c8b4a85fe1a67db44dc12de5db330f7ac66b72dc658afedf0f4a415b43",
+    "type": "L1 Blockchain",
+    "primaryColor": "Orange",
+    "launchYear": 2009,
+    "tickerLength": 3,
+    "fdvBucket": ">100B"
+  },
+  {
+    "name": "Ethereum",
+    "ticker": "ETH",
+    "pythFeedId": "0xff61491a931112ddf1bd8147cd1b641375f79f5825126d665480874634fd0ace",
+    "type": "L1 Blockchain",
+    "primaryColor": "Purple",
+    "launchYear": 2015,
+    "tickerLength": 3,
+    "fdvBucket": ">100B"
+  },
+  {
+    "name": "Solana",
+    "ticker": "SOL",
+    "pythFeedId": "0xef0d8b6fda2ceba41da15d4095d1da392a0d2f8ed0c6c7bc0f4cfac8c280b56d",
+    "type": "L1 Blockchain",
+    "primaryColor": "Purple",
+    "launchYear": 2020,
+    "tickerLength": 3,
+    "fdvBucket": "10B-100B"
+  },
+  {
+    "name": "BNB",
+    "ticker": "BNB",
+    "pythFeedId": "0x2f95862b045670cd22bee3114c39763a4a08beeb663b145d283c31d7d1101c4f",
+    "type": "L1 Blockchain",
+    "primaryColor": "Yellow",
+    "launchYear": 2017,
+    "tickerLength": 3,
+    "fdvBucket": "10B-100B"
+  },
+  {
+    "name": "Ripple",
+    "ticker": "XRP",
+    "pythFeedId": "0xec5d399846a9209f3fe5881d70aae9268c94339ff9817e8d18ff19fa05eea1c8",
+    "type": "Payment",
+    "primaryColor": "Blue",
+    "launchYear": 2012,
+    "tickerLength": 3,
+    "fdvBucket": ">100B"
+  },
+  {
+    "name": "Cardano",
+    "ticker": "ADA",
+    "pythFeedId": "0x2a01deaec9e51a579277b34b122399984d0bbf57e2458a7e42fecd2829867a0d",
+    "type": "L1 Blockchain",
+    "primaryColor": "Blue",
+    "launchYear": 2017,
+    "tickerLength": 3,
+    "fdvBucket": "10B-100B"
+  },
+  {
+    "name": "Avalanche",
+    "ticker": "AVAX",
+    "pythFeedId": "0x93da3352f9f1d105fdfe4971cfa80e9dd777bfc5d0f683ebb6e1294b92137bb7",
+    "type": "L1 Blockchain",
+    "primaryColor": "Red",
+    "launchYear": 2020,
+    "tickerLength": 4,
+    "fdvBucket": "1B-10B"
+  },
+  {
+    "name": "Polkadot",
+    "ticker": "DOT",
+    "pythFeedId": "0xca3eed9b267293f6595901c734c7525ce8ef49adafe8284606ceb307afa2ca5b",
+    "type": "Layer-0",
+    "primaryColor": "Pink",
+    "launchYear": 2020,
+    "tickerLength": 3,
+    "fdvBucket": "1B-10B"
+  },
+  {
+    "name": "Near Protocol",
+    "ticker": "NEAR",
+    "pythFeedId": "0xc415de8d2eba7db216527dff4b60e8f3a5311c740dadb233e13e12547e226750",
+    "type": "L1 Blockchain",
+    "primaryColor": "Black",
+    "launchYear": 2020,
+    "tickerLength": 4,
+    "fdvBucket": "1B-10B"
+  },
+  {
+    "name": "Aptos",
+    "ticker": "APT",
+    "pythFeedId": "0x03ae4db29ed4ae33d323568895aa00337e658e348b37509f5372ae51f0af00d5",
+    "type": "L1 Blockchain",
+    "primaryColor": "Green",
+    "launchYear": 2022,
+    "tickerLength": 3,
+    "fdvBucket": "1B-10B"
+  },
+  {
+    "name": "Sui",
+    "ticker": "SUI",
+    "pythFeedId": "0x23d7315113f5b1d3ba7a83604c44b94d79f4fd69af77f804fc7f920a6dc65744",
+    "type": "L1 Blockchain",
+    "primaryColor": "Blue",
+    "launchYear": 2023,
+    "tickerLength": 3,
+    "fdvBucket": "1B-10B"
+  },
+  {
+    "name": "TRON",
+    "ticker": "TRX",
+    "pythFeedId": "0x67aed5a24fdad045475e7195c98a98aea119c763f272d4523f5bac93a4f33c2b",
+    "type": "L1 Blockchain",
+    "primaryColor": "Red",
+    "launchYear": 2017,
+    "tickerLength": 3,
+    "fdvBucket": "10B-100B"
+  },
+  {
+    "name": "Toncoin",
+    "ticker": "TON",
+    "pythFeedId": "0x8963217838ab4cf5cadc172203c1f0b763fbaa45f346d8ee50ba994bbcac3026",
+    "type": "L1 Blockchain",
+    "primaryColor": "Blue",
+    "launchYear": 2018,
+    "tickerLength": 3,
+    "fdvBucket": "10B-100B"
+  },
+  {
+    "name": "Internet Computer",
+    "ticker": "ICP",
+    "pythFeedId": "0xc9907d786c5821547777780a1e4f89484f3417cb14dd244f2b0a34ea7a554d67",
+    "type": "L1 Blockchain",
+    "primaryColor": "Purple",
+    "launchYear": 2021,
+    "tickerLength": 3,
+    "fdvBucket": "1B-10B"
+  },
+  {
+    "name": "Sonic",
+    "ticker": "S",
+    "pythFeedId": "0xf490b178d0c85683b7a0f2388b40af2e6f7c90cbe0f96b31f315f08d0e5a2d6d",
+    "type": "L1 Blockchain",
+    "primaryColor": "Black",
+    "launchYear": 2024,
+    "tickerLength": 1,
+    "fdvBucket": "100M-1B"
+  },
+  {
+    "name": "Cosmos",
+    "ticker": "ATOM",
+    "pythFeedId": "0xb00b60f88b03a6a625a8d1c048c3f66653edf217439983d037e7222c4e612819",
+    "type": "Layer-0",
+    "primaryColor": "Blue",
+    "launchYear": 2019,
+    "tickerLength": 4,
+    "fdvBucket": "1B-10B"
+  },
+  {
+    "name": "Sei",
+    "ticker": "SEI",
+    "pythFeedId": "0x53614f1cb0c031d4af66c04cb9c756234adad0e1cee85303795091499a4084eb",
+    "type": "L1 Blockchain",
+    "primaryColor": "Red",
+    "launchYear": 2023,
+    "tickerLength": 3,
+    "fdvBucket": "100M-1B"
+  },
+  {
+    "name": "Injective",
+    "ticker": "INJ",
+    "pythFeedId": "0x7a5bc1d2b56ad029048cd63964b3ad2776eadf812edc1a43a31406cb54bff592",
+    "type": "L1 Blockchain",
+    "primaryColor": "Blue",
+    "launchYear": 2021,
+    "tickerLength": 3,
+    "fdvBucket": "1B-10B"
+  },
+  {
+    "name": "Algorand",
+    "ticker": "ALGO",
+    "pythFeedId": "0xfa17ceaf30d19ba51112fdcc750cc83454776f47fb0112e4af07f15f4bb1ebc0",
+    "type": "L1 Blockchain",
+    "primaryColor": "Black",
+    "launchYear": 2019,
+    "tickerLength": 4,
+    "fdvBucket": "100M-1B"
+  },
+  {
+    "name": "Hedera",
+    "ticker": "HBAR",
+    "pythFeedId": "0x3728e591097635310e6341af53db8b7ee42da9b3a8d918f9463ce9cca886dfbd",
+    "type": "L1 Blockchain",
+    "primaryColor": "Black",
+    "launchYear": 2019,
+    "tickerLength": 4,
+    "fdvBucket": "1B-10B"
+  },
+  {
+    "name": "Stellar",
+    "ticker": "XLM",
+    "pythFeedId": "0xb7a8eba68a997cd0210c2e1e4ee811ad2d174b3611c22d9ebf16f4cb7e9ba850",
+    "type": "Payment",
+    "primaryColor": "Black",
+    "launchYear": 2014,
+    "tickerLength": 3,
+    "fdvBucket": "1B-10B"
+  },
+  {
+    "name": "MultiversX",
+    "ticker": "EGLD",
+    "pythFeedId": "0xee326a761a4b53629a29fc64bf47dda18cb2eea0bef22da7144dbdc130d112fc",
+    "type": "L1 Blockchain",
+    "primaryColor": "Blue",
+    "launchYear": 2020,
+    "tickerLength": 4,
+    "fdvBucket": "100M-1B"
+  },
+  {
+    "name": "Celo",
+    "ticker": "CELO",
+    "pythFeedId": "0x7d669ddcdd23d9ef1fa9a9cc022ba055ec900e91c4cb960f3c20429d4447a411",
+    "type": "L1 Blockchain",
+    "primaryColor": "Yellow",
+    "launchYear": 2020,
+    "tickerLength": 4,
+    "fdvBucket": "100M-1B"
+  },
+  {
+    "name": "Kaspa",
+    "ticker": "KAS",
+    "pythFeedId": "0xdfd3cb51a9d39fde35a3ff6177b426def03ed48d45008248f22827d8bf50cab4",
+    "type": "L1 Blockchain",
+    "primaryColor": "Green",
+    "launchYear": 2021,
+    "tickerLength": 3,
+    "fdvBucket": "1B-10B"
+  },
+  {
+    "name": "Monad",
+    "ticker": "MON",
+    "pythFeedId": "0x31491744e2dbf6df7fcf4ac0820d18a609b49076d45066d3568424e62f686cd1",
+    "type": "L1 Blockchain",
+    "primaryColor": "Purple",
+    "launchYear": 2025,
+    "tickerLength": 3,
+    "fdvBucket": "100M-1B"
+  },
+  {
+    "name": "Berachain",
+    "ticker": "BERA",
+    "pythFeedId": "0x962088abcfdbdb6e30db2e340c8cf887d9efb311b1f2f17b155a63dbb6d40265",
+    "type": "L1 Blockchain",
+    "primaryColor": "Red",
+    "launchYear": 2025,
+    "tickerLength": 4,
+    "fdvBucket": "100M-1B"
+  },
+  {
+    "name": "Polygon",
+    "ticker": "POL",
+    "pythFeedId": "0xffd11c5a1cfd42f80afb2df4d9f264c15f956d68153335374ec10722edd70472",
+    "type": "L2",
+    "primaryColor": "Purple",
+    "launchYear": 2019,
+    "tickerLength": 3,
+    "fdvBucket": "1B-10B"
+  },
+  {
+    "name": "Optimism",
+    "ticker": "OP",
+    "pythFeedId": "0x385f64d993f7b77d8182ed5003d97c60aa3361f3cecfe711544d2d59165e9bdf",
+    "type": "L2",
+    "primaryColor": "Red",
+    "launchYear": 2021,
+    "tickerLength": 2,
+    "fdvBucket": "1B-10B"
+  },
+  {
+    "name": "Arbitrum",
+    "ticker": "ARB",
+    "pythFeedId": "0x3fa4252848f9f0a1480be62745a4629d9eb1322aebab8a791e344b3b9c1adcf5",
+    "type": "L2",
+    "primaryColor": "Blue",
+    "launchYear": 2021,
+    "tickerLength": 3,
+    "fdvBucket": "1B-10B"
+  },
+  {
+    "name": "Starknet",
+    "ticker": "STRK",
+    "pythFeedId": "0x6a182399ff70ccf3e06024898942028204125a819e519a335ffa4579e66cd870",
+    "type": "L2",
+    "primaryColor": "Orange",
+    "launchYear": 2024,
+    "tickerLength": 4,
+    "fdvBucket": "100M-1B"
+  },
+  {
+    "name": "ZKsync",
+    "ticker": "ZK",
+    "pythFeedId": "0xcc03dc09298fb447e0bf9afdb760d5b24340fd2167fd33d8967dd8f9a141a2e8",
+    "type": "L2",
+    "primaryColor": "Blue",
+    "launchYear": 2024,
+    "tickerLength": 2,
+    "fdvBucket": "100M-1B"
+  },
+  {
+    "name": "Movement",
+    "ticker": "MOVE",
+    "pythFeedId": "0x6bf748c908767baa762a1563d454ebec2d5108f8ee36d806aadacc8f0a075b6d",
+    "type": "L2",
+    "primaryColor": "Purple",
+    "launchYear": 2024,
+    "tickerLength": 4,
+    "fdvBucket": "100M-1B"
+  },
+  {
+    "name": "Hyperliquid",
+    "ticker": "HYPE",
+    "pythFeedId": "0x4279e31cc369bbcc2faf022b382b080e32a8e689ff20fbc530d2a603eb6cd98b",
+    "type": "DeFi Token",
+    "primaryColor": "Green",
+    "launchYear": 2024,
+    "tickerLength": 4,
+    "fdvBucket": "1B-10B"
+  },
+  {
+    "name": "Uniswap",
+    "ticker": "UNI",
+    "pythFeedId": "0x78d185a741d07edb3412b09008b7c5cfb9bbbd7d568bf00ba737b456ba171501",
+    "type": "DeFi Token",
+    "primaryColor": "Pink",
+    "launchYear": 2020,
+    "tickerLength": 3,
+    "fdvBucket": "1B-10B"
+  },
+  {
+    "name": "Aave",
+    "ticker": "AAVE",
+    "pythFeedId": "0x2b9ab1e972a281585084148ba1389800799bd4be63b957507db1349314e47445",
+    "type": "DeFi Token",
+    "primaryColor": "Purple",
+    "launchYear": 2020,
+    "tickerLength": 4,
+    "fdvBucket": "1B-10B"
+  },
+  {
+    "name": "Curve",
+    "ticker": "CRV",
+    "pythFeedId": "0xa19d04ac696c7a6616d291c7e5d1377cc8be437c327b75adb5dc1bad745fcae8",
+    "type": "DeFi Token",
+    "primaryColor": "Red",
+    "launchYear": 2020,
+    "tickerLength": 3,
+    "fdvBucket": "100M-1B"
+  },
+  {
+    "name": "Synthetix",
+    "ticker": "SNX",
+    "pythFeedId": "0x39d020f60982ed892abbcd4a06a276a9f9b7bfbce003204c110b6e488f502da3",
+    "type": "DeFi Token",
+    "primaryColor": "Green",
+    "launchYear": 2018,
+    "tickerLength": 3,
+    "fdvBucket": "100M-1B"
+  },
+  {
+    "name": "Lido DAO",
+    "ticker": "LDO",
+    "pythFeedId": "0xc63e2a7f37a04e5e614c07238bedb25dcc38927fba8fe890597a593c0b2fa4ad",
+    "type": "DeFi Token",
+    "primaryColor": "Orange",
+    "launchYear": 2021,
+    "tickerLength": 3,
+    "fdvBucket": "100M-1B"
+  },
+  {
+    "name": "GMX",
+    "ticker": "GMX",
+    "pythFeedId": "0xb962539d0fcb272a494d65ea56f94851c2bcf8823935da05bd628916e2e9edbf",
+    "type": "DeFi Token",
+    "primaryColor": "Blue",
+    "launchYear": 2021,
+    "tickerLength": 3,
+    "fdvBucket": "100M-1B"
+  },
+  {
+    "name": "dYdX",
+    "ticker": "DYDX",
+    "pythFeedId": "0x6489800bb8974169adfe35937bf6736507097d13c190d760c557108c7e93a81b",
+    "type": "DeFi Token",
+    "primaryColor": "Purple",
+    "launchYear": 2021,
+    "tickerLength": 4,
+    "fdvBucket": "100M-1B"
+  },
+  {
+    "name": "Compound",
+    "ticker": "COMP",
+    "pythFeedId": "0x4a8e42861cabc5ecb50996f92e7cfa2bce3fd0a2423b0c44c9b423fb2bd25478",
+    "type": "DeFi Token",
+    "primaryColor": "Green",
+    "launchYear": 2020,
+    "tickerLength": 4,
+    "fdvBucket": "100M-1B"
+  },
+  {
+    "name": "Yearn Finance",
+    "ticker": "YFI",
+    "pythFeedId": "0x425f4b198ab2504936886c1e93511bb6720fbcf2045a4f3c0723bb213846022f",
+    "type": "DeFi Token",
+    "primaryColor": "Blue",
+    "launchYear": 2020,
+    "tickerLength": 3,
+    "fdvBucket": "100M-1B"
+  },
+  {
+    "name": "Pendle",
+    "ticker": "PENDLE",
+    "pythFeedId": "0x9a4df90b25497f66b1afb012467e316e801ca3d839456db028892fe8c70c8016",
+    "type": "DeFi Token",
+    "primaryColor": "Green",
+    "launchYear": 2021,
+    "tickerLength": 6,
+    "fdvBucket": "100M-1B"
+  },
+  {
+    "name": "Jupiter",
+    "ticker": "JUP",
+    "pythFeedId": "0x0a0408d619e9380abad35060f9192039ed5042fa6f82301d0e48bb52be830996",
+    "type": "DeFi Token",
+    "primaryColor": "Green",
+    "launchYear": 2024,
+    "tickerLength": 3,
+    "fdvBucket": "100M-1B"
+  },
+  {
+    "name": "Raydium",
+    "ticker": "RAY",
+    "pythFeedId": "0x91568baa8beb53db23eb3fb7f22c6e8bd303d103919e19733f2bb642d3e7987a",
+    "type": "DeFi Token",
+    "primaryColor": "Purple",
+    "launchYear": 2021,
+    "tickerLength": 3,
+    "fdvBucket": "100M-1B"
+  },
+  {
+    "name": "SushiSwap",
+    "ticker": "SUSHI",
+    "pythFeedId": "0x26e4f737fde0263a9eea10ae63ac36dcedab2aaf629261a994e1eeb6ee0afe53",
+    "type": "DeFi Token",
+    "primaryColor": "Pink",
+    "launchYear": 2020,
+    "tickerLength": 5,
+    "fdvBucket": "100M-1B"
+  },
+  {
+    "name": "Ethena",
+    "ticker": "ENA",
+    "pythFeedId": "0xb7910ba7322db020416fcac28b48c01212fd9cc8fbcbaf7d30477ed8605f6bd4",
+    "type": "DeFi Token",
+    "primaryColor": "Purple",
+    "launchYear": 2024,
+    "tickerLength": 3,
+    "fdvBucket": "100M-1B"
+  },
+  {
+    "name": "Rocket Pool",
+    "ticker": "RPL",
+    "pythFeedId": "0x24f94ac0fd8638e3fc41aab2e4df933e63f763351b640bf336a6ec70651c4503",
+    "type": "DeFi Token",
+    "primaryColor": "Orange",
+    "launchYear": 2021,
+    "tickerLength": 3,
+    "fdvBucket": "100M-1B"
+  },
+  {
+    "name": "Jito",
+    "ticker": "JTO",
+    "pythFeedId": "0xb43660a5f790c69354b0729a5ef9d50d68f1df92107540210b9cccba1f947cc2",
+    "type": "DeFi Token",
+    "primaryColor": "Green",
+    "launchYear": 2023,
+    "tickerLength": 3,
+    "fdvBucket": "100M-1B"
+  },
+  {
+    "name": "Blur",
+    "ticker": "BLUR",
+    "pythFeedId": "0x856aac602516addee497edf6f50d39e8c95ae5fb0da1ed434a8c2ab9c3e877e9",
+    "type": "DeFi Token",
+    "primaryColor": "Orange",
+    "launchYear": 2022,
+    "tickerLength": 4,
+    "fdvBucket": "100M-1B"
+  },
+  {
+    "name": "Aerodrome",
+    "ticker": "AERO",
+    "pythFeedId": "0x9db37f4d5654aad3e37e2e14ffd8d53265fb3026d1d8f91146539eebaa2ef45f",
+    "type": "DeFi Token",
+    "primaryColor": "Blue",
+    "launchYear": 2023,
+    "tickerLength": 4,
+    "fdvBucket": "100M-1B"
+  },
+  {
+    "name": "Morpho",
+    "ticker": "MORPHO",
+    "pythFeedId": "0x5b2a4c542d4a74dd11784079ef337c0403685e3114ba0d9909b5c7a7e06fdc42",
+    "type": "DeFi Token",
+    "primaryColor": "Blue",
+    "launchYear": 2024,
+    "tickerLength": 6,
+    "fdvBucket": "100M-1B"
+  },
+  {
+    "name": "Aevo",
+    "ticker": "AEVO",
+    "pythFeedId": "0x104e4d9ba218610b9af53c887f9fcb7396615259867a5a4b5983a65802aeee0b",
+    "type": "DeFi Token",
+    "primaryColor": "Red",
+    "launchYear": 2023,
+    "tickerLength": 4,
+    "fdvBucket": "10M-100M"
+  },
+  {
+    "name": "Orca",
+    "ticker": "ORCA",
+    "pythFeedId": "0x37505261e557e251290b8c8899453064e8d760ed5c65a779726f2490980da74c",
+    "type": "DeFi Token",
+    "primaryColor": "Black",
+    "launchYear": 2021,
+    "tickerLength": 4,
+    "fdvBucket": "10M-100M"
+  },
+  {
+    "name": "Kamino",
+    "ticker": "KMNO",
+    "pythFeedId": "0xb17e5bc5de742a8a378b54c9c75442b7d51e30ada63f28d9bd28d3c0e26511a0",
+    "type": "DeFi Token",
+    "primaryColor": "Green",
+    "launchYear": 2024,
+    "tickerLength": 4,
+    "fdvBucket": "10M-100M"
+  },
+  {
+    "name": "1inch",
+    "ticker": "1INCH",
+    "pythFeedId": "0x63f341689d98a12ef60a5cff1d7f85c70a9e17bf1575f0e7c0b2512d48b1c8b3",
+    "type": "DeFi Token",
+    "primaryColor": "Black",
+    "launchYear": 2020,
+    "tickerLength": 5,
+    "fdvBucket": "10M-100M"
+  },
+  {
+    "name": "PancakeSwap",
+    "ticker": "CAKE",
+    "pythFeedId": "0x2356af9529a1064d41e32d617e2ce1dca5733afa901daba9e2b68dee5d53ecf9",
+    "type": "DeFi Token",
+    "primaryColor": "Green",
+    "launchYear": 2020,
+    "tickerLength": 4,
+    "fdvBucket": "100M-1B"
+  },
+  {
+    "name": "THORChain",
+    "ticker": "RUNE",
+    "pythFeedId": "0x5fcf71143bb70d41af4fa9aa1287e2efd3c5911cee59f909f915c9f61baacb1e",
+    "type": "DeFi Token",
+    "primaryColor": "Green",
+    "launchYear": 2019,
+    "tickerLength": 4,
+    "fdvBucket": "100M-1B"
+  },
+  {
+    "name": "DeepBook",
+    "ticker": "DEEP",
+    "pythFeedId": "0x29bdd5248234e33bd93d3b81100b5fa32eaa5997843847e2c2cb16d7c6d9f7ff",
+    "type": "DeFi Token",
+    "primaryColor": "Blue",
+    "launchYear": 2024,
+    "tickerLength": 4,
+    "fdvBucket": "10M-100M"
+  },
+  {
+    "name": "Sky Protocol",
+    "ticker": "SKY",
+    "pythFeedId": "0xa483243eed64ca27a1f6e26385b7d1e0d07e9fe264bb6903efb3efc4689d3fe7",
+    "type": "DeFi Token",
+    "primaryColor": "Yellow",
+    "launchYear": 2024,
+    "tickerLength": 3,
+    "fdvBucket": "10M-100M"
+  },
+  {
+    "name": "Chainlink",
+    "ticker": "LINK",
+    "pythFeedId": "0x8ac0c70fff57e9aefdf5edf44b51d62c2d433653cbb2cf5cc06bb115af04d221",
+    "type": "Oracle",
+    "primaryColor": "Blue",
+    "launchYear": 2017,
+    "tickerLength": 4,
+    "fdvBucket": "10B-100B"
+  },
+  {
+    "name": "The Graph",
+    "ticker": "GRT",
+    "pythFeedId": "0x4d1f8dae0d96236fb98e8f47471a366ec3b1732b47041781934ca3a9bb2f35e7",
+    "type": "Other",
+    "primaryColor": "Purple",
+    "launchYear": 2020,
+    "tickerLength": 3,
+    "fdvBucket": "100M-1B"
+  },
+  {
+    "name": "Pyth Network",
+    "ticker": "PYTH",
+    "pythFeedId": "0x0bbf28e9a841a1cc788f6a361b17ca072d0ea3098a1e5df1c3922d06719579ff",
+    "type": "Oracle",
+    "primaryColor": "Purple",
+    "launchYear": 2021,
+    "tickerLength": 4,
+    "fdvBucket": "100M-1B"
+  },
+  {
+    "name": "Helium",
+    "ticker": "HNT",
+    "pythFeedId": "0x649fdd7ec08e8e2a20f425729854e90293dcbe2376abc47197a14da6ff339756",
+    "type": "Other",
+    "primaryColor": "Blue",
+    "launchYear": 2019,
+    "tickerLength": 3,
+    "fdvBucket": "100M-1B"
+  },
+  {
+    "name": "Arweave",
+    "ticker": "AR",
+    "pythFeedId": "0xf610eae82767039ffc95eef8feaeddb7bbac0673cfe7773b2fde24fd1adb0aee",
+    "type": "Other",
+    "primaryColor": "Black",
+    "launchYear": 2018,
+    "tickerLength": 2,
+    "fdvBucket": "100M-1B"
+  },
+  {
+    "name": "Filecoin",
+    "ticker": "FIL",
+    "pythFeedId": "0x150ac9b959aee0051e4091f0ef5216d941f590e1c5e7f91cf7635b5c11628c0e",
+    "type": "Other",
+    "primaryColor": "Blue",
+    "launchYear": 2020,
+    "tickerLength": 3,
+    "fdvBucket": "1B-10B"
+  },
+  {
+    "name": "Ondo Finance",
+    "ticker": "ONDO",
+    "pythFeedId": "0xd40472610abe56d36d065a0cf889fc8f1dd9f3b7f2a478231a5fc6df07ea5ce3",
+    "type": "RWA",
+    "primaryColor": "Black",
+    "launchYear": 2023,
+    "tickerLength": 4,
+    "fdvBucket": "1B-10B"
+  },
+  {
+    "name": "Eigenlayer",
+    "ticker": "EIGEN",
+    "pythFeedId": "0xc65db025687356496e8653d0d6608eec64ce2d96e2e28c530e574f0e4f712380",
+    "type": "Other",
+    "primaryColor": "Purple",
+    "launchYear": 2024,
+    "tickerLength": 5,
+    "fdvBucket": "100M-1B"
+  },
+  {
+    "name": "VeChain",
+    "ticker": "VET",
+    "pythFeedId": "0x1722176f738aa1aafea170f8b27724042c5ac6d8cb9cf8ae02d692b0927e0681",
+    "type": "L1 Blockchain",
+    "primaryColor": "Blue",
+    "launchYear": 2018,
+    "tickerLength": 3,
+    "fdvBucket": "100M-1B"
+  },
+  {
+    "name": "Stacks",
+    "ticker": "STX",
+    "pythFeedId": "0xec7a775f46379b5e943c3526b1c8d54cd49749176b0b98e02dde68d1bd335c17",
+    "type": "L2",
+    "primaryColor": "Purple",
+    "launchYear": 2019,
+    "tickerLength": 3,
+    "fdvBucket": "100M-1B"
+  },
+  {
+    "name": "Celestia",
+    "ticker": "TIA",
+    "pythFeedId": "0x09f7c1d7dfbb7df2b8fe3d3d87ee94a2259d212da4f30c1f0540d066dfa44723",
+    "type": "Layer-0",
+    "primaryColor": "Purple",
+    "launchYear": 2023,
+    "tickerLength": 3,
+    "fdvBucket": "1B-10B"
+  },
+  {
+    "name": "ORDI",
+    "ticker": "ORDI",
+    "pythFeedId": "0x193c739db502aadcef37c2589738b1e37bdb257d58cf1ab3c7ebc8e6df4e3ec0",
+    "type": "Other",
+    "primaryColor": "Orange",
+    "launchYear": 2023,
+    "tickerLength": 4,
+    "fdvBucket": "100M-1B"
+  },
+  {
+    "name": "Ethereum Name Service",
+    "ticker": "ENS",
+    "pythFeedId": "0xb98ab6023650bd2edc026b983fb7c2f8fa1020286f1ba6ecf3f4322cd83b72a6",
+    "type": "Other",
+    "primaryColor": "Blue",
+    "launchYear": 2017,
+    "tickerLength": 3,
+    "fdvBucket": "100M-1B"
+  },
+  {
+    "name": "Wormhole",
+    "ticker": "W",
+    "pythFeedId": "0xeff7446475e218517566ea99e72a4abec2e1bd8498b43b7d8331e29dcb059389",
+    "type": "Layer-0",
+    "primaryColor": "Purple",
+    "launchYear": 2024,
+    "tickerLength": 1,
+    "fdvBucket": "100M-1B"
+  },
+  {
+    "name": "LayerZero",
+    "ticker": "ZRO",
+    "pythFeedId": "0x3bd860bea28bf982fa06bcf358118064bb114086cc03993bd76197eaab0b8018",
+    "type": "Layer-0",
+    "primaryColor": "Blue",
+    "launchYear": 2024,
+    "tickerLength": 3,
+    "fdvBucket": "100M-1B"
+  },
+  {
+    "name": "Lighter",
+    "ticker": "LIT",
+    "pythFeedId": "0xc0c83f00c39165892d55dcd17ade2191e289697e2ac132d9ab721e20834e2a9e",
+    "type": "DeFi Token",
+    "primaryColor": "Orange",
+    "launchYear": 2024,
+    "tickerLength": 3,
+    "fdvBucket": "10M-100M"
+  },
+  {
+    "name": "Arkham",
+    "ticker": "ARKM",
+    "pythFeedId": "0x7677dd124dee46cfcd46ff03cf405fb0ed94b1f49efbea3444aadbda939a7ad3",
+    "type": "Other",
+    "primaryColor": "Orange",
+    "launchYear": 2023,
+    "tickerLength": 4,
+    "fdvBucket": "100M-1B"
+  },
+  {
+    "name": "Story Protocol",
+    "ticker": "IP",
+    "pythFeedId": "0xb620ba83044577029da7e4ded7a2abccf8e6afc2a0d4d26d89ccdd39ec109025",
+    "type": "Other",
+    "primaryColor": "Orange",
+    "launchYear": 2025,
+    "tickerLength": 2,
+    "fdvBucket": "100M-1B"
+  },
+  {
+    "name": "Kaito",
+    "ticker": "KAITO",
+    "pythFeedId": "0x7302dee641a08507c297a7b0c8b3efa74a48a3baa6c040acab1e5209692b7e59",
+    "type": "AI Token",
+    "primaryColor": "Purple",
+    "launchYear": 2025,
+    "tickerLength": 5,
+    "fdvBucket": "100M-1B"
+  },
+  {
+    "name": "Solayer",
+    "ticker": "LAYER",
+    "pythFeedId": "0x3c987d95da67ceb12705b22448200568c15b6242796cacc21c11f622e74cfffb",
+    "type": "Other",
+    "primaryColor": "Purple",
+    "launchYear": 2024,
+    "tickerLength": 5,
+    "fdvBucket": "10M-100M"
+  },
+  {
+    "name": "Walrus Protocol",
+    "ticker": "WAL",
+    "pythFeedId": "0xeba0732395fae9dec4bae12e52760b35fc1c5671e2da8b449c9af4efe5d54341",
+    "type": "Other",
+    "primaryColor": "Blue",
+    "launchYear": 2024,
+    "tickerLength": 3,
+    "fdvBucket": "10M-100M"
+  },
+  {
+    "name": "Animecoin",
+    "ticker": "ANIME",
+    "pythFeedId": "0x45b75908a1965a86080a26d9f31ab69d045d4dda73d1394e0d3693ce00d40e6f",
+    "type": "Other",
+    "primaryColor": "Pink",
+    "launchYear": 2025,
+    "tickerLength": 5,
+    "fdvBucket": "100M-1B"
+  },
+  {
+    "name": "Decentraland",
+    "ticker": "MANA",
+    "pythFeedId": "0x1dfffdcbc958d732750f53ff7f06d24bb01364b3f62abea511a390c74b8d16a5",
+    "type": "Gaming",
+    "primaryColor": "Red",
+    "launchYear": 2017,
+    "tickerLength": 4,
+    "fdvBucket": "100M-1B"
+  },
+  {
+    "name": "The Sandbox",
+    "ticker": "SAND",
+    "pythFeedId": "0xcb7a1d45139117f8d3da0a4b67264579aa905e3b124efede272634f094e1e9d1",
+    "type": "Gaming",
+    "primaryColor": "Blue",
+    "launchYear": 2020,
+    "tickerLength": 4,
+    "fdvBucket": "100M-1B"
+  },
+  {
+    "name": "Axie Infinity",
+    "ticker": "AXS",
+    "pythFeedId": "0xb7e3904c08ddd9c0c10c6d207d390fd19e87eb6aab96304f571ed94caebdefa0",
+    "type": "Gaming",
+    "primaryColor": "Blue",
+    "launchYear": 2020,
+    "tickerLength": 3,
+    "fdvBucket": "100M-1B"
+  },
+  {
+    "name": "Immutable",
+    "ticker": "IMX",
+    "pythFeedId": "0x941320a8989414874de5aa2fc340a75d5ed91fdff1613dd55f83844d52ea63a2",
+    "type": "Gaming",
+    "primaryColor": "Green",
+    "launchYear": 2021,
+    "tickerLength": 3,
+    "fdvBucket": "100M-1B"
+  },
+  {
+    "name": "Gala",
+    "ticker": "GALA",
+    "pythFeedId": "0x0781209c28fda797616212b7f94d77af3a01f3e94a5d421760aef020cf2bcb51",
+    "type": "Gaming",
+    "primaryColor": "Blue",
+    "launchYear": 2020,
+    "tickerLength": 4,
+    "fdvBucket": "100M-1B"
+  },
+  {
+    "name": "Chiliz",
+    "ticker": "CHZ",
+    "pythFeedId": "0xe799f456b358a2534aa1b45141d454ac04b444ed23b1440b778549bb758f2b5c",
+    "type": "Gaming",
+    "primaryColor": "Red",
+    "launchYear": 2019,
+    "tickerLength": 3,
+    "fdvBucket": "100M-1B"
+  },
+  {
+    "name": "STEPN",
+    "ticker": "GMT",
+    "pythFeedId": "0xbaa284eaf23edf975b371ba2818772f93dbae72836bbdea28b07d40f3cf8b485",
+    "type": "Gaming",
+    "primaryColor": "Green",
+    "launchYear": 2022,
+    "tickerLength": 3,
+    "fdvBucket": "10M-100M"
+  },
+  {
+    "name": "Echelon Prime",
+    "ticker": "PRIME",
+    "pythFeedId": "0xe417fb7d1edcfe70283c608fa9f14d11ebf4d1b3ecf2e97e42a110f7fb649843",
+    "type": "Gaming",
+    "primaryColor": "Green",
+    "launchYear": 2023,
+    "tickerLength": 5,
+    "fdvBucket": "10M-100M"
+  },
+  {
+    "name": "Render",
+    "ticker": "RENDER",
+    "pythFeedId": "0x3d4a2bd9535be6ce8059d75eadeba507b043257321aa544717c56fa19b49e35d",
+    "type": "AI Token",
+    "primaryColor": "Orange",
+    "launchYear": 2020,
+    "tickerLength": 6,
+    "fdvBucket": "1B-10B"
+  },
+  {
+    "name": "Bittensor",
+    "ticker": "TAO",
+    "pythFeedId": "0x410f41de235f2db824e562ea7ab2d3d3d4ff048316c61d629c0b93f58584e1af",
+    "type": "AI Token",
+    "primaryColor": "Black",
+    "launchYear": 2021,
+    "tickerLength": 3,
+    "fdvBucket": "1B-10B"
+  },
+  {
+    "name": "Fetch.ai",
+    "ticker": "FET",
+    "pythFeedId": "0x7da003ada32eabbac855af3d22fcf0fe692cc589f0cfd5ced63cf0bdcc742efe",
+    "type": "AI Token",
+    "primaryColor": "Blue",
+    "launchYear": 2019,
+    "tickerLength": 3,
+    "fdvBucket": "100M-1B"
+  },
+  {
+    "name": "Virtuals Protocol",
+    "ticker": "VIRTUAL",
+    "pythFeedId": "0x8132e3eb1dac3e56939a16ff83848d194345f6688bff97eb1c8bd462d558802b",
+    "type": "AI Token",
+    "primaryColor": "Green",
+    "launchYear": 2024,
+    "tickerLength": 7,
+    "fdvBucket": "100M-1B"
+  },
+  {
+    "name": "AIXBT by Virtuals",
+    "ticker": "AIXBT",
+    "pythFeedId": "0x0fc54579a29ba60a08fdb5c28348f22fd3bec18e221dd6b90369950db638a5a7",
+    "type": "AI Token",
+    "primaryColor": "Black",
+    "launchYear": 2024,
+    "tickerLength": 5,
+    "fdvBucket": "10M-100M"
+  },
+  {
+    "name": "AI Rig Complex",
+    "ticker": "ARC",
+    "pythFeedId": "0xac3d02825eef9c311197bcdd3ef789b2c7db97739af8f6aeca8374c55b022572",
+    "type": "AI Token",
+    "primaryColor": "Green",
+    "launchYear": 2024,
+    "tickerLength": 3,
+    "fdvBucket": "10M-100M"
+  },
+  {
+    "name": "Grass",
+    "ticker": "GRASS",
+    "pythFeedId": "0x299ac948742a799d27a1649c76035b26577ad0eb6585a5ae2a691d31f2ee90c4",
+    "type": "AI Token",
+    "primaryColor": "Green",
+    "launchYear": 2024,
+    "tickerLength": 5,
+    "fdvBucket": "10M-100M"
+  },
+  {
+    "name": "Griffain",
+    "ticker": "GRIFFAIN",
+    "pythFeedId": "0x159b86e6ca1a2a6bd613953d1cd46008bd1200284bebc3e4c7cc36c3aa3edda9",
+    "type": "AI Token",
+    "primaryColor": "Orange",
+    "launchYear": 2024,
+    "tickerLength": 8,
+    "fdvBucket": "10M-100M"
+  },
+  {
+    "name": "io.net",
+    "ticker": "IO",
+    "pythFeedId": "0x82595d1509b770fa52681e260af4dda9752b87316d7c048535d8ead3fa856eb1",
+    "type": "AI Token",
+    "primaryColor": "Blue",
+    "launchYear": 2024,
+    "tickerLength": 2,
+    "fdvBucket": "10M-100M"
+  },
+  {
+    "name": "Litecoin",
+    "ticker": "LTC",
+    "pythFeedId": "0x6e3f3fa8253588df9326580180233eb791e03b443a3ba7a1d892e73874e19a54",
+    "type": "Payment",
+    "primaryColor": "White",
+    "launchYear": 2011,
+    "tickerLength": 3,
+    "fdvBucket": "1B-10B"
+  },
+  {
+    "name": "Bitcoin Cash",
+    "ticker": "BCH",
+    "pythFeedId": "0x3dd2b63686a450ec7290df3a1e0b583c0481f651351edfa7636f39aed55cf8a3",
+    "type": "Payment",
+    "primaryColor": "Green",
+    "launchYear": 2017,
+    "tickerLength": 3,
+    "fdvBucket": "1B-10B"
+  },
+  {
+    "name": "Ethereum Classic",
+    "ticker": "ETC",
+    "pythFeedId": "0x7f5cc8d963fc5b3d2ae41fe5685ada89fd4f14b435f8050f28c7fd409f40c2d8",
+    "type": "L1 Blockchain",
+    "primaryColor": "Green",
+    "launchYear": 2016,
+    "tickerLength": 3,
+    "fdvBucket": "100M-1B"
+  },
+  {
+    "name": "Dogecoin",
+    "ticker": "DOGE",
+    "pythFeedId": "0xdcef50dd0a4cd2dcc17e45df1676dcb336a11a61c69df7a0299b0150c672d25c",
+    "type": "Memecoin",
+    "primaryColor": "Yellow",
+    "launchYear": 2013,
+    "tickerLength": 4,
+    "fdvBucket": "10B-100B"
+  },
+  {
+    "name": "Shiba Inu",
+    "ticker": "SHIB",
+    "pythFeedId": "0xf0d57deca57b3da2fe63a493f4c25925fdfd8edf834b20f93e1f84dbd1504d4a",
+    "type": "Memecoin",
+    "primaryColor": "Orange",
+    "launchYear": 2020,
+    "tickerLength": 4,
+    "fdvBucket": "1B-10B"
+  },
+  {
+    "name": "Pepe",
+    "ticker": "PEPE",
+    "pythFeedId": "0xd69731a2e74ac1ce884fc3890f7ee324b6deb66147055249568869ed700882e4",
+    "type": "Memecoin",
+    "primaryColor": "Green",
+    "launchYear": 2023,
+    "tickerLength": 4,
+    "fdvBucket": "1B-10B"
+  },
+  {
+    "name": "Dogwifhat",
+    "ticker": "WIF",
+    "pythFeedId": "0x4ca4beeca86f0d164160323817a4e42b10010a724c2217c6ee41b54cd4cc61fc",
+    "type": "Memecoin",
+    "primaryColor": "Orange",
+    "launchYear": 2023,
+    "tickerLength": 3,
+    "fdvBucket": "100M-1B"
+  },
+  {
+    "name": "Bonk",
+    "ticker": "BONK",
+    "pythFeedId": "0x72b021217ca3fe68922a19aaf990109cb9d84e9ad004b4d2025ad6f529314419",
+    "type": "Memecoin",
+    "primaryColor": "Orange",
+    "launchYear": 2022,
+    "tickerLength": 4,
+    "fdvBucket": "100M-1B"
+  },
+  {
+    "name": "Floki",
+    "ticker": "FLOKI",
+    "pythFeedId": "0x6b1381ce7e874dc5410b197ac8348162c0dd6c0d4c9cd6322672d6c2b1d58293",
+    "type": "Memecoin",
+    "primaryColor": "Orange",
+    "launchYear": 2021,
+    "tickerLength": 5,
+    "fdvBucket": "100M-1B"
+  },
+  {
+    "name": "Brett",
+    "ticker": "BRETT",
+    "pythFeedId": "0x9b5729efe3d68e537cdcb2ca70444dea5f06e1660b562632609757076d0b9448",
+    "type": "Memecoin",
+    "primaryColor": "Blue",
+    "launchYear": 2024,
+    "tickerLength": 5,
+    "fdvBucket": "100M-1B"
+  },
+  {
+    "name": "TRUMP",
+    "ticker": "TRUMP",
+    "pythFeedId": "0x879551021853eec7a7dc827578e8e69da7e4fa8148339aa0d3d5296405be4b1a",
+    "type": "Memecoin",
+    "primaryColor": "Red",
+    "launchYear": 2025,
+    "tickerLength": 5,
+    "fdvBucket": "1B-10B"
+  },
+  {
+    "name": "Melania",
+    "ticker": "MELANIA",
+    "pythFeedId": "0x8fef7d52c7f4e3a6258d663f9d27e64a1b6fd95ab5f7d545dbf9a515353d0064",
+    "type": "Memecoin",
+    "primaryColor": "Yellow",
+    "launchYear": 2025,
+    "tickerLength": 7,
+    "fdvBucket": "100M-1B"
+  },
+  {
+    "name": "Vine",
+    "ticker": "VINE",
+    "pythFeedId": "0x22a54087e443d4d1db5bd018923337c72c818a99ca521ead71f72fa058f1ccf1",
+    "type": "Memecoin",
+    "primaryColor": "Green",
+    "launchYear": 2025,
+    "tickerLength": 4,
+    "fdvBucket": "10M-100M"
+  },
+  {
+    "name": "Moodeng",
+    "ticker": "MOODENG",
+    "pythFeedId": "0xffff73128917a90950cd0473fd2551d7cd274fd5a6cc45641881bbcc6ee73417",
+    "type": "Memecoin",
+    "primaryColor": "Orange",
+    "launchYear": 2024,
+    "tickerLength": 7,
+    "fdvBucket": "10M-100M"
+  },
+  {
+    "name": "Goatseus Maximus",
+    "ticker": "GOAT",
+    "pythFeedId": "0xf7731dc812590214d3eb4343bfb13d1b4cfa9b1d4e020644b5d5d8e07d60c66c",
+    "type": "Memecoin",
+    "primaryColor": "Red",
+    "launchYear": 2024,
+    "tickerLength": 4,
+    "fdvBucket": "10M-100M"
+  },
+  {
+    "name": "Peanut the Squirrel",
+    "ticker": "PNUT",
+    "pythFeedId": "0x116da895807f81f6b5c5f01b109376e7f6834dc8b51365ab7cdfa66634340e54",
+    "type": "Memecoin",
+    "primaryColor": "Red",
+    "launchYear": 2024,
+    "tickerLength": 4,
+    "fdvBucket": "10M-100M"
+  },
+  {
+    "name": "Neiro",
+    "ticker": "NEIRO",
+    "pythFeedId": "0x83dfac550d6066d5c837e99c27e38a392c5cccc9a637044c2ef6c843336da444",
+    "type": "Memecoin",
+    "primaryColor": "Orange",
+    "launchYear": 2024,
+    "tickerLength": 5,
+    "fdvBucket": "10M-100M"
+  },
+  {
+    "name": "Act I: The AI Prophecy",
+    "ticker": "ACT",
+    "pythFeedId": "0x4d716b908b470fabc1f9eeaf62ad32424b2388bf981401385df19ead98499c7c",
+    "type": "Memecoin",
+    "primaryColor": "Purple",
+    "launchYear": 2024,
+    "tickerLength": 3,
+    "fdvBucket": "10M-100M"
+  },
+  {
+    "name": "Ponke",
+    "ticker": "PONKE",
+    "pythFeedId": "0xf4cb880742ecf6525885a239968914798c44cd83749856a6dff5c140ba5bf69b",
+    "type": "Memecoin",
+    "primaryColor": "Orange",
+    "launchYear": 2023,
+    "tickerLength": 5,
+    "fdvBucket": "10M-100M"
+  },
+  {
+    "name": "Cat in a Dogs World",
+    "ticker": "MEW",
+    "pythFeedId": "0x514aed52ca5294177f20187ae883cec4a018619772ddce41efcc36a6448f5d5d",
+    "type": "Memecoin",
+    "primaryColor": "Pink",
+    "launchYear": 2024,
+    "tickerLength": 3,
+    "fdvBucket": "10M-100M"
+  },
+  {
+    "name": "Book of Meme",
+    "ticker": "BOME",
+    "pythFeedId": "0x30e4780570973e438fdb3f1b7ad22618b2fc7333b65c7853a7ca144c39052f7a",
+    "type": "Memecoin",
+    "primaryColor": "Orange",
+    "launchYear": 2024,
+    "tickerLength": 4,
+    "fdvBucket": "10M-100M"
+  },
+  {
+    "name": "Pudgy Penguin",
+    "ticker": "PENGU",
+    "pythFeedId": "0xbed3097008b9b5e3c93bec20be79cb43986b85a996475589351a21e67bae9b61",
+    "type": "Memecoin",
+    "primaryColor": "Blue",
+    "launchYear": 2024,
+    "tickerLength": 5,
+    "fdvBucket": "100M-1B"
+  },
+  {
+    "name": "Turbo",
+    "ticker": "TURBO",
+    "pythFeedId": "0xa00e67c6232f2f564932c252c440ed30759d10fee966b601c1613b0ed8692a5c",
+    "type": "Memecoin",
+    "primaryColor": "Orange",
+    "launchYear": 2023,
+    "tickerLength": 5,
+    "fdvBucket": "10M-100M"
+  },
+  {
+    "name": "SPX6900",
+    "ticker": "SPX6900",
+    "pythFeedId": "0x8414cfadf82f6bed644d2e399c11df21ec0131aa574c56030b132113dbbf3a0a",
+    "type": "Memecoin",
+    "primaryColor": "Blue",
+    "launchYear": 2024,
+    "tickerLength": 7,
+    "fdvBucket": "10M-100M"
+  },
+  {
+    "name": "Degen",
+    "ticker": "DEGEN",
+    "pythFeedId": "0x9c93e4a22c56885af427ac4277437e756e7ec403fbc892f975d497383bb33560",
+    "type": "Memecoin",
+    "primaryColor": "Purple",
+    "launchYear": 2024,
+    "tickerLength": 5,
+    "fdvBucket": "10M-100M"
+  },
+  {
+    "name": "Terra Luna",
+    "ticker": "LUNA",
+    "pythFeedId": "0xe6ccd3f878cf338e6732bf59f60943e8ca2c28402fc4d9c258503b2edbe74a31",
+    "type": "Memecoin",
+    "primaryColor": "Yellow",
+    "launchYear": 2019,
+    "tickerLength": 4,
+    "fdvBucket": "10M-100M"
+  },
+  {
+    "name": "ApeCoin",
+    "ticker": "APE",
+    "pythFeedId": "0x15add95022ae13563a11992e727c91bdb6b55bc183d9d747436c80a483d8c864",
+    "type": "Memecoin",
+    "primaryColor": "Blue",
+    "launchYear": 2022,
+    "tickerLength": 3,
+    "fdvBucket": "100M-1B"
+  },
+  {
+    "name": "Tether",
+    "ticker": "USDT",
+    "pythFeedId": "0x2b89b9dc8fdf9f34709a5b106b472f0f39bb6ca9ce04b0fd7f2e971688e2e53b",
+    "type": "Stablecoin",
+    "primaryColor": "Green",
+    "launchYear": 2014,
+    "tickerLength": 4,
+    "fdvBucket": ">100B"
+  },
+  {
+    "name": "USD Coin",
+    "ticker": "USDC",
+    "pythFeedId": "0xeaa020c61cc479712813461ce153894a96a6c00b21ed0cfc2798d1f9a9e9c94a",
+    "type": "Stablecoin",
+    "primaryColor": "Blue",
+    "launchYear": 2018,
+    "tickerLength": 4,
+    "fdvBucket": "10B-100B"
+  },
+  {
+    "name": "Dai",
+    "ticker": "DAI",
+    "pythFeedId": "0xb0948a5e5313200c632b51bb5ca32f6de0d36e9950a942d19751e833f70dabfd",
+    "type": "Stablecoin",
+    "primaryColor": "Yellow",
+    "launchYear": 2017,
+    "tickerLength": 3,
+    "fdvBucket": "1B-10B"
+  },
+  {
+    "name": "Frax",
+    "ticker": "FRAX",
+    "pythFeedId": "0x735f591e4fed988cd38df74d8fcedecf2fe8d9111664e0fd500db9aa78b316b1",
+    "type": "Stablecoin",
+    "primaryColor": "Black",
+    "launchYear": 2020,
+    "tickerLength": 4,
+    "fdvBucket": "100M-1B"
+  },
+  {
+    "name": "USDe",
+    "ticker": "USDE",
+    "pythFeedId": "0x6ec879b1e9963de5ee97e9c8710b742d6228252a5e2ca12d4ae81d7fe5ee8c5d",
+    "type": "Stablecoin",
+    "primaryColor": "Purple",
+    "launchYear": 2024,
+    "tickerLength": 4,
+    "fdvBucket": "1B-10B"
+  },
+  {
+    "name": "PayPal USD",
+    "ticker": "PYUSD",
+    "pythFeedId": "0xc1da1b73d7f01e7ddd54b3766cf7fcd644395ad14f70aa706ec5384c59e76692",
+    "type": "Stablecoin",
+    "primaryColor": "Blue",
+    "launchYear": 2023,
+    "tickerLength": 5,
+    "fdvBucket": "100M-1B"
+  },
+  {
+    "name": "Usual Money",
+    "ticker": "USUAL",
+    "pythFeedId": "0x226ae20a70afb9d55a5724e1569a6da7a6e65fdb7eb56924ef1262e05a28b505",
+    "type": "Stablecoin",
+    "primaryColor": "Black",
+    "launchYear": 2024,
+    "tickerLength": 5,
+    "fdvBucket": "10M-100M"
+  },
+  {
+    "name": "PAX Gold",
+    "ticker": "PAXG",
+    "pythFeedId": "0x273717b49430906f4b0c230e99aa1007f83758e3199edbc887c0d06c3e332494",
+    "type": "Stablecoin",
+    "primaryColor": "Yellow",
+    "launchYear": 2019,
+    "tickerLength": 4,
+    "fdvBucket": "100M-1B"
+  },
+  {
+    "name": "Wrapped Bitcoin",
+    "ticker": "WBTC",
+    "pythFeedId": "0xc9d8b075a5c69303365ae23633d4e085199bf5c520a3b90fed1322a0342ffc33",
+    "type": "Other",
+    "primaryColor": "Orange",
+    "launchYear": 2019,
+    "tickerLength": 4,
+    "fdvBucket": "10B-100B"
+  },
+  {
+    "name": "Lido Staked ETH",
+    "ticker": "STETH",
+    "pythFeedId": "0x846ae1bdb6300b817cee5fdee2a6da192775030db5615b94a465f53bd40850b5",
+    "type": "Other",
+    "primaryColor": "Blue",
+    "launchYear": 2020,
+    "tickerLength": 5,
+    "fdvBucket": "10B-100B"
+  },
+  {
+    "name": "Rocket Pool ETH",
+    "ticker": "RETH",
+    "pythFeedId": "0xa0255134973f4fdf2f8f7808354274a3b1ebc6ee438be898d045e8b56ba1fe13",
+    "type": "Other",
+    "primaryColor": "Orange",
+    "launchYear": 2021,
+    "tickerLength": 4,
+    "fdvBucket": "1B-10B"
+  },
+  {
+    "name": "Coinbase ETH",
+    "ticker": "CBETH",
+    "pythFeedId": "0x15ecddd26d49e1a8f1de9376ebebc03916ede873447c1255d2d5891b92ce5717",
+    "type": "Other",
+    "primaryColor": "Blue",
+    "launchYear": 2022,
+    "tickerLength": 5,
+    "fdvBucket": "1B-10B"
+  },
+  {
+    "name": "Ether.fi",
+    "ticker": "ETHFI",
+    "pythFeedId": "0xb27578a9654246cb0a2950842b92330e9ace141c52b63829cc72d5c45a5a595a",
+    "type": "Other",
+    "primaryColor": "Blue",
+    "launchYear": 2024,
+    "tickerLength": 5,
+    "fdvBucket": "100M-1B"
+  },
+  {
+    "name": "ZetaChain",
+    "ticker": "ZETA",
+    "pythFeedId": "0xb70656181007f487e392bf0d92e55358e9f0da5da6531c7c4ce7828aa11277fe",
+    "type": "Layer-0",
+    "primaryColor": "Green",
+    "launchYear": 2023,
+    "tickerLength": 4,
+    "fdvBucket": "10M-100M"
+  },
+  {
+    "name": "AltLayer",
+    "ticker": "ALT",
+    "pythFeedId": "0x119ff2acf90f68582f5afd6f7d5f12dbae81e4423f165837169d6b94c27fb384",
+    "type": "L2",
+    "primaryColor": "Orange",
+    "launchYear": 2024,
+    "tickerLength": 3,
+    "fdvBucket": "10M-100M"
+  }
+]
