@@ -47,7 +47,7 @@ function getCoinTypeFamily(type) {
 }
 
 // ── Daily Puzzle ──
-const LAUNCH_DATE = new Date("2026-03-22T00:00:00Z");
+const LAUNCH_DATE = new Date("2026-03-24T00:00:00Z");
 
 function getTodayDateString() {
   return new Date().toISOString().split("T")[0];
