@@ -54,18 +54,57 @@ function getTodayDateString() {
 }
 
 function hashDateString(dateStr) {
-  let hash = 0;
+  let h = 0x811c9dc5; // FNV offset basis
   for (let i = 0; i < dateStr.length; i++) {
-    const char = dateStr.charCodeAt(i);
-    hash = (hash << 5) - hash + char;
-    hash |= 0;
+    h ^= dateStr.charCodeAt(i);
+    h = Math.imul(h, 0x01000193); // FNV prime
   }
-  return Math.abs(hash);
+  h ^= h >>> 16;
+  h = Math.imul(h, 0x85ebca6b);
+  h ^= h >>> 13;
+  h = Math.imul(h, 0xc2b2ae35);
+  h ^= h >>> 16;
+  return Math.abs(h);
+}
+
+const COOLDOWN_DAYS = 60;
+const resolvedCache = new Map();
+
+function ensureResolvedUpTo(targetDateStr) {
+  const target = new Date(targetDateStr + "T00:00:00Z");
+  const launch = new Date("2026-03-24T00:00:00Z");
+  const ws = new Date(target);
+  ws.setUTCDate(ws.getUTCDate() - COOLDOWN_DAYS);
+  const start = ws > launch ? ws : launch;
+  const cursor = new Date(start);
+  while (cursor <= target) {
+    const ds = cursor.toISOString().split("T")[0];
+    if (!resolvedCache.has(ds)) {
+      const recent = new Set();
+      for (let i = 1; i <= COOLDOWN_DAYS; i++) {
+        const prev = new Date(cursor);
+        prev.setUTCDate(prev.getUTCDate() - i);
+        const c = resolvedCache.get(prev.toISOString().split("T")[0]);
+        if (c !== undefined) recent.add(c);
+      }
+      let idx = hashDateString(ds) % COINS.length;
+      let attempts = 0;
+      while (recent.has(idx) && attempts < COINS.length) {
+        idx = (idx + 1) % COINS.length;
+        attempts++;
+      }
+      resolvedCache.set(ds, idx);
+    }
+    cursor.setUTCDate(cursor.getUTCDate() + 1);
+  }
 }
 
 function getDailyCoinIndex(dateStr) {
   const date = dateStr ?? getTodayDateString();
-  return hashDateString(date) % COINS.length;
+  if (!resolvedCache.has(date)) {
+    ensureResolvedUpTo(date);
+  }
+  return resolvedCache.get(date);
 }
 
 function getDailyPuzzleNumber(dateStr) {
